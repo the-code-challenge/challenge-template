@@ -36,15 +36,15 @@ npm run test
 
 ### Test 1  
 
-**Parametros**: param = 1  
-**Resultado esperado**: xxx
+- **Parametros**: param = 1  
+- **Resultado esperado**: xxx
 ---
 ### Test 2  
 
-**Parametros**:  param = 2  
-**Resultado esperado**: xxx
+- **Parametros**:  param = 2  
+- **Resultado esperado**: xxx
 ---
 ### Test 3  
 
-**Parametros**: param = 3  
-**Resultado esperado**: xxx
+- **Parametros**: param = 3  
+- **Resultado esperado**: xxx
