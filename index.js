@@ -1,7 +1,8 @@
 const challengeFunction = function(param){
     /* YOUR CODE HERE */
+    let result
 
-    return param
+    return result
 }
 
 module.exports = challengeFunction
